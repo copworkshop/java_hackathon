@@ -1,8 +1,5 @@
 # java copilot_hackaton
 The goal of this exercise is to learn how to use GitHub Copilot, using an exercise that consist of building a REST API using Spring Boot.
-
-## Use Case: 
-We have created a Spring Boot project with some files already created, you can find the project in the folder **exercisefiles/springboot**. 
 Let's start copiloting!!!
 
 ## Pre-requisite:
